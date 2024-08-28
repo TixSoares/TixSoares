@@ -2,7 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================================
 Estudante de Analise e Desenvolvimento de Sistemas
 --------------------------------------------------
-Sou um profissional com experiência em atendimento ao cliente e rápida capacidade de aprendizagem, atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça. Trabalhei como atendente na Fepese, lidando com dúvidas e inscrições, e como monitor de informática, ajudando pessoas a dominar o uso do computador. Complemento minha formação com cursos de programação, como "Jovem Programador" e "HTML e CSS" pelo Senac. Com habilidades em comunicação, suporte ao cliente e ensino, estou comprometido em expandir minhas competências e contribuir para projetos na área de tecnologia.* 🌍  I'm based in Palhoça, Santa Catarina, Brasil;* 🧠  I'm learning Android Studio;* 🤝  I'm open to collaborating on Aplicativos de celular;* ⚡  Atualmente não trabalhando na área de desenvolvimento;
+Sou um profissional com experiência em atendimento ao cliente e rápida capacidade de aprendizagem, atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça. Trabalhei como atendente na Fepese, lidando com dúvidas e inscrições, e como monitor de informática, ajudando pessoas a dominar o uso do computador. Complemento minha formação com cursos de programação, como "Jovem Programador" e "HTML e CSS" pelo Senac. Com habilidades em comunicação, suporte ao cliente e ensino, estou comprometido em expandir minhas competências e contribuir para projetos na área de tecnologia.
+
+* 🌍  I'm based in Palhoça, Santa Catarina, Brasil;
+* * 🧠  I'm learning Android Studio;
+  * * 🤝  I'm open to collaborating on Aplicativos de celular;
+    * * ⚡  Atualmente não trabalhando na área de desenvolvimento;
 
 ### Skills
 
